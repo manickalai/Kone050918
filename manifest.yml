@@ -1,5 +1,5 @@
 applications:
-    - path: .
+- path: .
     name: Kone050918
     host: Kone050918
     framework: node
